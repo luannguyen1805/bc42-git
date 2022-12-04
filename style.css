@@ -4,3 +4,10 @@ h3{
 .title{
     color: blue;
 }
+
+h2{
+    font-size: 40px;
+    color: aquamarine;
+    background-color: antiquewhite;
+    padding: 20px 30px;
+}
